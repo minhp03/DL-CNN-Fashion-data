@@ -1,6 +1,12 @@
 Deep Learning Fashion Classifier
 Project Overview
 
+
+Data overview : 
+
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/562a6d24-a7c0-4cdf-8888-eea3a157d4e5" />
+
+
 This project develops a deep learning model using TensorFlow and Keras to classify fashion items from images.  employs convolutional neural networks (CNNs) to recognize various classes of fashion items such as coats, bags, t-shirts/tops, and sneakers.
 Libraries and Tools Used
 
